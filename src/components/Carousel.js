@@ -25,17 +25,17 @@ class Carousel extends React.Component {
                 {
                     id: 1,
                     title: 'ToDoApp',
-                    subTitle: 'Created a to do app using React',
+                    subTitle: 'Created a to do-app using React',
                     imgSrc: youtube,
                     link: 'https://github.com/dinoshanr/ToDoApp',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: 'Python Price Tracker',
-                    subTitle: 'Recognizes changes in price of items',
+                    title: 'YouTube Clone',
+                    subTitle: 'Created YouTube clone specifially for simple learning',
                     imgSrc: evverest,
-                    link: '',//put link here
+                    link: 'https://github.com/dinoshanr/YouTube-Clone',//put link here
                     selected: false
                 },
             ]

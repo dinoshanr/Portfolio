@@ -50,9 +50,7 @@ class App extends React.Component {
                 <Link className="nav-link" to="/">Home</Link>
                 <Link className="nav-link" to="/about">About</Link>
                 <Link className="nav-link" to="/contact">Contact</Link>
-                <a target="_blank" rel="noopener noreferrer" className="nav-link" href="https://www.linkedin.com/in/dinoshan">LinkedIn</a>
-
-
+                <a className="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dinoshan">LinkedIn</a>
               </Nav>
             </Navbar.Collapse>
           </Navbar>
